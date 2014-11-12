@@ -41,7 +41,7 @@ public class MyActivity extends Activity {
         jsonString = EntityUtils.toString(response.getEntity());
         client.close();
 
-        // parse response and update views of last item searched
+        // TODO: parse response and update views of last item searched
     }
 
 

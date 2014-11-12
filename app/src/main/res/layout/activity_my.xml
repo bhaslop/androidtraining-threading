@@ -34,6 +34,7 @@
         android:textColor="@color/black"
         android:textSize="15sp"
         android:layout_margin="10dp"
+        android:visibility="gone"
         android:text="Last item searched:"/>
 
     <TextView
